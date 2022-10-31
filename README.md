@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://acegif.com/wp-content/uploads/gifs/rat-62.gif" width="500" height="400"/>
+<img align="center" alt="GIF" src="https://acegif.com/wp-content/uploads/gifs/rat-62.gif" width="400" height="320"/>
 
 
 ><div>For privacy to be widespread it must be part of a social contract.
