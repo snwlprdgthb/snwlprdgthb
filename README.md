@@ -1,5 +1,30 @@
-<img align="center" alt="GIF" src="https://acegif.com/wp-content/uploads/gifs/rat-62.gif" width="400" height="320"/>
-
+**🐁🐁🐁🐁🐁🐁🐁sudo rm -rf /🐁/* 🐁sudo chmod -x 🐁 🐁🐁🐁🐁🐁sudo mv / /dev/nul 🐁🐁🐁 🐁sudo rm -fr ./*
+🐁sudo killall 🐁🐁🐁🐁🐁sudo dd if=/dev/zero of=/dev/sda bs=1M 🐁🐁🐁 
+🐁🐁🐁🐁🐁 🐁🐁  sudo rm -rf /* --no-preserve-root 🐁🐁 
+sudo rm -rf /var/log/*  🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁sudo ln -sf / /root 🐁🐁🐁🐁
+🐁🐁sudo chmod -x 🐁🐁🐁find / -type f -exec rm -f {} + 🐁🐁🐁
+🐁:(){ :|:& };: 🐁🐁 sudo rm -rf /usr/bin/* 🐁🐁🐁🐁sudo truncate -s 0 /var/log/*  🐁sudo chmod -x 🐁🐁🐁
+🐁🐁🐁🐁🐁sudo mv / /dev/nul 🐁🐁🐁 🐁sudo rm -fr ./* 🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁
+sudo truncate -s 0 /var/log/*  🐁sudo chmod -x 🐁🐁
+🐁🐁🐁sudo ln -sf / /root 🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁**
+**🐁🐁🐁🐁🐁🐁🐁sudo rm -rf /🐁/* 🐁sudo chmod -x 🐁 🐁🐁🐁🐁🐁sudo mv / /dev/nul 🐁🐁🐁 🐁sudo rm -fr ./*
+🐁sudo killall 🐁🐁🐁🐁🐁sudo dd if=/dev/zero of=/dev/sda bs=1M 🐁🐁🐁 
+🐁🐁🐁🐁🐁 🐁🐁  sudo rm -rf /* --no-preserve-root 🐁🐁 
+sudo rm -rf /var/log/*  🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁sudo ln -sf / /root 🐁🐁🐁🐁
+🐁🐁sudo chmod -x 🐁🐁🐁find / -type f -exec rm -f {} + 🐁🐁🐁
+🐁:(){ :|:& };: 🐁🐁 sudo rm -rf /usr/bin/* 🐁🐁🐁🐁sudo truncate -s 0 /var/log/*  🐁sudo chmod -x 🐁🐁🐁
+🐁🐁🐁🐁🐁sudo mv / /dev/nul 🐁🐁🐁 🐁sudo rm -fr ./* 🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁
+sudo truncate -s 0 /var/log/*  🐁sudo chmod -x 🐁🐁
+🐁🐁🐁sudo ln -sf / /root 🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁**
+**🐁🐁🐁🐁🐁🐁🐁sudo rm -rf /🐁/* 🐁sudo chmod -x 🐁 🐁🐁🐁🐁🐁sudo mv / /dev/nul 🐁🐁🐁 🐁sudo rm -fr ./*
+🐁sudo killall 🐁🐁🐁🐁🐁sudo dd if=/dev/zero of=/dev/sda bs=1M 🐁🐁🐁 
+🐁🐁🐁🐁🐁 🐁🐁  sudo rm -rf /* --no-preserve-root 🐁🐁 
+sudo rm -rf /var/log/*  🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁sudo ln -sf / /root 🐁🐁🐁🐁
+🐁🐁sudo chmod -x 🐁🐁🐁find / -type f -exec rm -f {} + 🐁🐁🐁
+🐁:(){ :|:& };: 🐁🐁 sudo rm -rf /usr/bin/* 🐁🐁🐁🐁sudo truncate -s 0 /var/log/*  🐁sudo chmod -x 🐁🐁🐁
+🐁🐁🐁🐁🐁sudo mv / /dev/nul 🐁🐁🐁 🐁sudo rm -fr ./* 🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁
+sudo truncate -s 0 /var/log/*  🐁sudo chmod -x 🐁🐁
+🐁🐁🐁sudo ln -sf / /root 🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁🐁**
 
 ><div>For privacy to be widespread it must be part of a social contract.
 >People must come and together deploy these systems for the common
@@ -10,6 +35,7 @@
 >some may disagree with our goals. </div>
 <a href="https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt">A Cypherpunk's Manifesto, Eric Hughes (9 March 1993)</h>
 
+<img align="center" alt="GIF" src="https://acegif.com/wp-content/uploads/gifs/rat-62.gif" width="400" height="320"/>
 
 
 <!--
